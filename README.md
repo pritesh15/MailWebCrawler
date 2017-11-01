@@ -1,4 +1,4 @@
-# webcrawler
+# MailWebCrawler
 This is an webcrawler application which pulls emails of particular year from the following mail archive:
 "http://mail-archives.apache.org/mod_mbox/maven-users/"
 
